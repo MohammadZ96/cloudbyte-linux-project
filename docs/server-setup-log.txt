@@ -1,0 +1,15 @@
+CloudByte Server Setup Log
+
+Project: Linux Server Foundations
+Operating System: Amazon Linux 2023
+Virtualization: Vagrant + VirtualBox
+
+Completed tasks:
+- Created four groups: engineering, marketing, operations, admins.
+- Created twelve users and configured group memberships.
+- Created five required directories.
+- Configured group ownership for all directories.
+- Configured directory permissions (770 and 775).
+- Verified directory structure and permissions.
+
+Status: Server foundations setup completed.
