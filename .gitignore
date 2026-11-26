@@ -16,3 +16,6 @@ Desktop.ini
 *.key
 *.env
 Gerät PRN konnte nicht initialisiert werden.
+
+# Vagrant local machine files
+.vagrant/
